@@ -98,19 +98,19 @@ const config: Config = {
           items: [
             {
               label: 'Tifos',
-              to: '/docs/tifo',
+              to: '/docs/tifos/overview',
             },
             {
               label: 'Banners',
-              to: '/docs/banners',
+              to: '/docs/banners/overview',
             },
             {
               label: 'Artists',
-              to: '/docs/artists',
+              to: '/docs/artists/overview',
             },
             {
               label: 'Leads',
-              to: '/docs/leads',
+              to: '/docs/leads/charter',
             },
           ],
         },
