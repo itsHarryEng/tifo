@@ -1,0 +1,8 @@
+{
+  "label": "Meeting Minutes",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Tifo meeting minutes."
+  }
+}
